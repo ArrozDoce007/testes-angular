@@ -47,16 +47,6 @@ O projeto será aberto automaticamente no navegador.
 
 ---
 
-# 🧪 Executando os Testes
-
-Para executar os testes unitários:
-
-```bash
-npx vitest
-```
-
----
-
 # 📊 Cobertura de Testes
 
 Para executar os testes com relatório de cobertura:
@@ -86,12 +76,6 @@ coverage/index.html
 # ✅ Requisitos
 
 Antes de iniciar, certifique-se de possuir instalado:
-
-- Node.js
-- npm
-- Angular CLI
-
----
 
 # 🔍 Verificando as Versões
 
